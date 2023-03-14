@@ -78,6 +78,6 @@ pip install dash
 pip install dash_bootstrap_components
 ```
 
-## ⚠️ No momento ainda estamos adicionando mais bibliotecas conforme o professor nos passa com o passar das aulas, fique de olho aqui para ver se existem novas bibliotecas que precisam ser adicionadas no seu Anaconda ⚠️
+## ⚠️ No momento ainda estamos adicionando mais bibliotecas conforme o professor nos passa com o passar das aulas, fique de olho aqui para ver se existem novas bibliotecas que precisam ser adicionadas no seu Anaconda
 
 Com as bibliotecas instaladas, seu anaconda deve estar pronto para uso. Basta executar o Jupyter-Notebook e importar as bibliotecas nos seus códigos 👍
