@@ -73,7 +73,7 @@ pip install plotly
 ```
 pip install dash
 ```
-* **Biblioteca Dash** 
+* **Biblioteca Dash Bootstrap Components** 
 ```
 pip install dash_bootstrap_components
 ```
