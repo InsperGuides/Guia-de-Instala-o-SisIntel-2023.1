@@ -1,8 +1,10 @@
-# Guia-de-Instalação-SisIntel-2023.1
----
-Insper: Laboratório Ágil
-date: Março 2023
----
+
+| **Lab**         |     **Data**   |
+|  :----:     |  :----:    |
+| Laboratório Ágil     | 2023       |
+
+Guia de Instalação SisIntel 2023.1
+===
 
 Neste documento estamos descrevendo o passo a passo para a instalação do Anaconda Navigator, junto com as bibliotecas necessárias para a Aula Eletiva de Sistemas Inteligentes de Extração de Conhecimentos.
 
