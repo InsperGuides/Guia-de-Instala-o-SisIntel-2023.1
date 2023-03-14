@@ -48,7 +48,9 @@ Ok, estamos com nosso anaconda instalado. Para verificar, basta procurar pelo An
 
 Abra seu **Anaconda Prompt**(não é necessário executar o Anaconda Navigator), e coloque os comando abaixo para instalar as bilbiotecas
 
-### ⚠️ não executar estes comandos no PowerShell ou no Prompt de Comando do Windows ⚠️
+### ⚠️ Não executar estes comandos no PowerShell ou no Prompt de Comando do Windows ⚠️
+### ⚠️ Algumas bibliotecas podem levar um tempo maior para instalar, tenha paciência, e tenha certeza que está conectado na internet antes de começar⚠️
+
 * **Biblioteca Pandas:** 
 ```
 pip install pandas==1.2.2 
@@ -69,3 +71,11 @@ pip install plotly
 ```
 pip install dash
 ```
+* **Biblioteca Dash** 
+```
+pip install dash_bootstrap_components
+```
+
+## ⚠️ No momento ainda estamos adicionando mais bibliotecas conforme o professor nos passa com o passar das aulas, fique de olho aqui para ver se existem novas bibliotecas que precisam ser adicionadas no seu Anaconda ⚠️
+
+Com as bibliotecas instaladas, seu anaconda deve estar pronto para uso. Basta executar o Jupyter-Notebook e importar as bibliotecas nos seus códigos 👍
