@@ -35,9 +35,9 @@ Para instalar o Anaconda, iremos baixar o arquivo .exe do site do Anaconda, link
 
 ### Windows
 
-Após baixar o arquivo.exe no site do Anaconda, execute o mesmo e siga o passo a passo da Instalação. 
+Após baixar o arquivo ***.exe*** no site do Anaconda, execute o mesmo e siga o passo a passo da Instalação. 
 
-Quando o instalador perguntar se deseja instalar apenas para você ou para todos os usuários, escolha APENAS PARA VOCÊ, e depois, em opções avançadas, marque a opção de adicionar o Anaconda ao PATH e,caso não possua outro Python instalado em sua máquina, ou queira utilizar o python do anaconda como seu python padrão, marque a segunda opção. Em caso de dúvida, não marque a opção do Python, apenas o PATH.
+Quando o instalador perguntar se deseja instalar apenas para você ou para todos os usuários, escolha **APENAS PARA VOCÊ**, e depois, em opções avançadas, marque a opção de adicionar o Anaconda ao PATH e,caso não possua outro Python instalado em sua máquina, ou queira utilizar o python do anaconda como seu python padrão, marque a segunda opção. Em caso de dúvida, não marque a opção do Python, apenas o PATH.
 
 Quando terminar a instalação, seu Anaconda já estará pronto, e você pode seguir para o próximo passo.
 
