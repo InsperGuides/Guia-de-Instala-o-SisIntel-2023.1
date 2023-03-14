@@ -10,7 +10,7 @@ Neste documento estamos descrevendo o passo a passo para a instalação do Anaco
 
 Seguindo este tutorial, você estará instalando a mesma infraestrutura que utilizamos nas NUCs do Laboratório de Desenvolvimento Ágil
 
-## :warning: MESMO COM A INFRAESTRUTURA CORRETAMENTE INSTALADA, UTILIZE AS NUCs DURANTE AS AULAS. ESTE GUIA EXISTE APENAS PARA AUXILIAR NA INSTALAÇÃO CASO FOREM RODAR AS AULAS E PROJETOS EM OUTRAS MÁQUINAS FORA DO PERÍODO DA AULA E FORA DO LABORATÓRIO :warning:
+## :warning: MESMO COM A INFRAESTRUTURA CORRETAMENTE INSTALADA, UTILIZE AS NUCs DURANTE AS AULAS. ESTE GUIA EXISTE APENAS PARA AUXILIAR NA INSTALAÇÃO CASO FOREM RODAR AS AULAS E PROJETOS EM OUTRAS MÁQUINAS FORA DO PERÍODO DA AULA E FORA DO LABORATÓRIO
 
 ---
 
@@ -50,8 +50,8 @@ Ok, estamos com nosso anaconda instalado. Para verificar, basta procurar pelo An
 
 Abra seu **Anaconda Prompt**(não é necessário executar o Anaconda Navigator), e coloque os comando abaixo para instalar as bilbiotecas
 
-### ⚠️ Não executar estes comandos no PowerShell ou no Prompt de Comando do Windows ⚠️
-### ⚠️ Algumas bibliotecas podem levar um tempo maior para instalar, tenha paciência, e tenha certeza que está conectado na internet antes de começar⚠️
+### ⚠️ Não executar estes comandos no PowerShell ou no Prompt de Comando do Windows
+### ⚠️ Algumas bibliotecas podem levar um tempo maior para instalar, tenha paciência, e tenha certeza que está conectado na internet antes de começar
 
 * **Biblioteca Pandas:** 
 ```
