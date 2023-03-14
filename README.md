@@ -10,11 +10,7 @@ Neste documento estamos descrevendo o passo a passo para a instalação do Anaco
 
 Seguindo este tutorial, você estará instalando a mesma infraestrutura que utilizamos nas NUCs do Laboratório de Desenvolvimento Ágil
 
-## :warning: MESMO COM A INFRAESTRUTURA CORRETAMENTE INSTALADA, UTILIZE AS NUCs DURANTE AS AULAS.<br /><br />ESTE GUIA EXISTE APENAS PARA AUXILIAR NA INSTALAÇÃO CASO FOREM RODAR AS AULAS E PROJETOS EM OUTRAS MÁQUINAS FORA DO PERÍODO DA AULA E FORA DO LABORATÓRIO
-
----
-
-## Passo 1: Instalando o Anaconda Navigator (Windows):
+## :warning: MESMO COM A INFRAESTRUTURA CORRETAMENTE INSTALADA, UTILIZE AS NUCs DURANTE AS AULAS.<br /><br />ESTE GUIA EXISTE APENAS PARA AUXILIAR NA INSTALAÇÃO CASO FOREM RODAR AS AULAS E PROJETOS EM OUTRAS MÁQUINAS FORA DO PERÍODO DA AULA E FORA DO LABORATÓRIO <br /><br />Passo 1: Instalando o Anaconda Navigator (Windows):
 
 ### 1.a: Removendo Versões antigas do Anaconda:
 É recomendado desinstalar qualquer versão do Anaconda do seu computador antes de começar este tutorial, para evitar conflitos indesejados durante o processo. Para tal, 
@@ -78,6 +74,6 @@ pip install dash
 pip install dash_bootstrap_components
 ```
 
-## ⚠️ No momento ainda estamos adicionando mais bibliotecas conforme a necessidade das aulas, fique de olho aqui para ver se existem novas bibliotecas que precisam ser adicionadas no seu Anaconda
+### ⚠️ No momento ainda estamos adicionando mais bibliotecas conforme a necessidade das aulas, fique de olho aqui para ver se existem novas bibliotecas que precisam ser adicionadas no seu Anaconda
 
 Com as bibliotecas instaladas, seu anaconda deve estar pronto para uso. Basta executar o Jupyter-Notebook e importar as bibliotecas nos seus códigos 👍
