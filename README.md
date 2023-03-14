@@ -22,7 +22,7 @@ utilize os passos que estão disponíveis no site do Anaconda, abaixo:
 
 https://docs.anaconda.com/anaconda/install/uninstall/
 
-#### Caso esteja seguro de que seu Anaconda não possui nenhuma alteração indesejada, ou já realizou a instalação do mesmo sem problemas, pular para o Passo 2.
+**Caso esteja seguro de que seu Anaconda não possui nenhuma alteração indesejada, ou já realizou a instalação do mesmo sem problemas, pular para o Passo 2.**
 
 ### 1.b: Instando o Anaconda Navigator:
 Para instalar o Anaconda, iremos baixar o arquivo .exe do site do Anaconda, linkado abaixo, e seguir com sua instalação.
