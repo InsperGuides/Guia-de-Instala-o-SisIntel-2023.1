@@ -73,6 +73,10 @@ pip install dash
 ```
 pip install dash_bootstrap_components
 ```
+* **Biblioteca Pytrends** 
+```
+pip install pytrends==4.9.0
+```
 
 ### ⚠️ No momento ainda estamos adicionando mais bibliotecas conforme a necessidade das aulas, fique de olho aqui para ver se existem novas bibliotecas que precisam ser adicionadas no seu Anaconda
 
