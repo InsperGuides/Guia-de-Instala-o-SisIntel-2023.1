@@ -77,6 +77,14 @@ pip install dash_bootstrap_components
 ```
 pip install pytrends==4.9.0
 ```
+* **Biblioteca Geopandas** 
+```
+pip install geopandas==0.10.2
+```
+* **Biblioteca Geopy** 
+```
+pip install geopy==1.22.0
+```
 
 ### ⚠️ No momento ainda estamos adicionando mais bibliotecas conforme a necessidade das aulas, fique de olho aqui para ver se existem novas bibliotecas que precisam ser adicionadas no seu Anaconda
 
