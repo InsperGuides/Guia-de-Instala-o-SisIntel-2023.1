@@ -103,6 +103,7 @@ pip install wordcloud==1.8.2.2
 * **Biblioteca openpyxl**
 ``
 pip install openpyxl==2.6.1
+``
 
 ### ⚠️ No momento ainda estamos adicionando mais bibliotecas conforme a necessidade das aulas, fique de olho aqui para ver se existem novas bibliotecas que precisam ser adicionadas no seu Anaconda
 
