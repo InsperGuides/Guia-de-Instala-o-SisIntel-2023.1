@@ -51,7 +51,7 @@ Abra seu **Anaconda Prompt**(não é necessário executar o Anaconda Navigator),
 #### Recomendamos utilizar o arquivo requirements.txt para a instalação. Para utiliza-lo, faça o download do arquivo deste repositório, e, em seguida, no Acaconda Prompt, acesse a pasta onde o arquivo foi baixado, e utilize o comando abaixo:
 
 ⏬ [requirements.txt](requirements.txt){: download }
-<a href="../requirements.txt" download>requirements.txt</a>
+<a href="/requirements.txt" download>requirements.txt</a>
 
 ```
 pip install -r requirements.txt
