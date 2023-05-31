@@ -86,24 +86,29 @@ pip install geopandas==0.10.2
 pip install geopy==1.22.0
 ```
 * **Biblioteca tweepy**
-``
+```
 pip install tweepy==3.8.0
+```
 * **Biblioteca textblob**
-``
+```
 pip install textblob==0.15.3
+```
 * **Biblioteca Unidecode**
-``
+```
 pip install unidecode==1.1.1
+```
 * **Biblioteca deep-translator**
-``
+```
 pip install deep-translator==1.3.2
+```
 * **Biblioteca wordcloud**
-``
+```
 pip install wordcloud==1.8.2.2
+```
 * **Biblioteca openpyxl**
-``
+```
 pip install openpyxl==2.6.1
-``
+```
 
 ### ⚠️ No momento ainda estamos adicionando mais bibliotecas conforme a necessidade das aulas, fique de olho aqui para ver se existem novas bibliotecas que precisam ser adicionadas no seu Anaconda
 
