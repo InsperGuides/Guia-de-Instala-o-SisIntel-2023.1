@@ -49,7 +49,7 @@ Abra seu **Anaconda Prompt**(não é necessário executar o Anaconda Navigator),
 #### ⚠️ Não executar estes comandos no PowerShell ou no Prompt de Comando do Windows
 #### ⚠️ Algumas bibliotecas podem levar um tempo maior para instalar, tenha paciência, e tenha certeza que está conectado na internet antes de começar
 #### Recomendamos utilizar o arquivo requirements.txt para a instalação. Para utiliza-lo, faça o download do arquivo deste repositório, e, em seguida, no Acaconda Prompt, acesse a pasta onde o arquivo foi baixado, e utilize o comando abaixo:
-📩[requirements.txt](https://github.com/InsperGuides/Guia-de-Instalacao-SisIntel-2023.1/blob/main/requirements.txt)
+⏬ [requirements.txt](https://github.com/InsperGuides/Guia-de-Instalacao-SisIntel-2023.1/blob/main/requirements.txt)
 ```
 pip install -r requirements.txt
 ```
