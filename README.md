@@ -109,7 +109,9 @@ pip install wordcloud==1.8.2.2
 ```
 pip install openpyxl==2.6.1
 ```
-
-### ⚠️ No momento ainda estamos adicionando mais bibliotecas conforme a necessidade das aulas, fique de olho aqui para ver se existem novas bibliotecas que precisam ser adicionadas no seu Anaconda
+* **Biblioteca ACO-Pants**
+```
+pip install ACO-Pants==0.5.2
+```
 
 Com as bibliotecas instaladas, seu anaconda deve estar pronto para uso. Basta executar o Jupyter-Notebook e importar as bibliotecas nos seus códigos 👍
